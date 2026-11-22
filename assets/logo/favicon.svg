@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Paul Davis Restoration">
+  <rect width="64" height="64" rx="10" fill="#181615"/>
+  <rect x="2" y="2" width="60" height="60" rx="8" fill="none" stroke="#B4975A" stroke-width="2"/>
+  <text x="11" y="42" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="27" letter-spacing="-1" fill="#B4975A">P</text>
+  <text x="31" y="42" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="27" letter-spacing="-1" fill="#FFFFFF">D</text>
+</svg>
